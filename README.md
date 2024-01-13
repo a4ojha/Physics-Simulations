@@ -1,4 +1,3 @@
-﻿# Physics-Simulations
 # Physics Simulations in PyGame 2.5.0
 I am experimenting with several different 2D physics simulations in PyGame, including projectile motion, collisions, and explosions.
 
